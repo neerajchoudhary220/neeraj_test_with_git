@@ -1,0 +1,222 @@
+commit fa4cd1e8f6b462b9cebc26fda8615b5f5bc44e22
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Sat Jun 7 11:17:47 2025 +0530
+
+    adcvc
+
+diff --git a/hello.txt b/hello.txt
+index 4804060..445f194 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1,6 +1 @@
+ hello this is my filey
+-hello htis is good for me
+-
+-goood for me it was a good file for me
+-
+-neeraj choudhary
+\ No newline at end of file
+diff --git a/key.txt b/key.txt
+new file mode 100644
+index 0000000..0a086e6
+--- /dev/null
++++ b/key.txt
+@@ -0,0 +1 @@
++afssafkasdf afsalkfsfafssaddf
+\ No newline at end of file
+
+commit 910645dab733010bb6034cb7697dd6e0c9f896a6
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Sat Jun 7 00:19:46 2025 +0530
+
+    test commit
+
+diff --git a/last_log.txt b/last_log.txt
+index 7b935fc..8c2d5e5 100644
+--- a/last_log.txt
++++ b/last_log.txt
+@@ -1,6 +1,5 @@
+ 00dc6f5 teste for newx
+ 6f1590d test
+-d8e9ffe sweet commit
+ 399026c this is good commit
+ e54b783 test comit
+ 52be53b hello
+
+commit 467f87735e8f5fa5377d38350439e5d5dd38f571
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Sat Jun 7 00:17:37 2025 +0530
+
+    last test commit
+
+diff --git a/last_log.txt b/last_log.txt
+new file mode 100644
+index 0000000..7b935fc
+--- /dev/null
++++ b/last_log.txt
+@@ -0,0 +1,6 @@
++00dc6f5 teste for newx
++6f1590d test
++d8e9ffe sweet commit
++399026c this is good commit
++e54b783 test comit
++52be53b hello
+diff --git a/tst.txt b/tst.txt
+new file mode 100644
+index 0000000..9daeafb
+--- /dev/null
++++ b/tst.txt
+@@ -0,0 +1 @@
++test
+
+commit 926df73d8e5ff5709234187b9e102a7a6fe8e392
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Fri Jun 6 01:29:21 2025 +0530
+
+    Revert "add gitgnore file"
+    
+    This reverts commit a80d4e122f7407513959c4153c401130a5cdad1f.
+
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+index 057fc7c..0000000
+--- a/.gitignore
++++ /dev/null
+@@ -1 +0,0 @@
+-last_log.txt
+
+commit 4f2941fb6bbef883c331e60d5351658e177348d7
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Fri Jun 6 01:28:04 2025 +0530
+
+    right commit
+
+diff --git a/hello.txt b/hello.txt
+index c8e4ed5..4804060 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -3,3 +3,4 @@ hello htis is good for me
+ 
+ goood for me it was a good file for me
+ 
++neeraj choudhary
+\ No newline at end of file
+
+commit 6188bf96ceb5f8ce3177322dda1589ff10d5355b
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Fri Jun 6 00:58:04 2025 +0530
+
+    add gitgnore file
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..057fc7c
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++last_log.txt
+
+commit 759a05e28778cdb755a233b35414997ef37c9425
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Thu Jun 5 22:55:51 2025 +0530
+
+    teste for newx
+
+diff --git a/hello.txt b/hello.txt
+index 06fb940..c8e4ed5 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1,3 +1,5 @@
+ hello this is my filey
+ hello htis is good for me
+ 
++goood for me it was a good file for me
++
+
+commit 6f1590d4f54d50a52e90ada1b437fb1987716d0c
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Thu Jun 5 22:54:46 2025 +0530
+
+    test
+
+diff --git a/hello.txt' b/hello.txt'
+deleted file mode 100644
+index 9ea103c..0000000
+--- a/hello.txt'
++++ /dev/null
+@@ -1,8 +0,0 @@
+-hello this is my filey
+-this is good for me and i can do it slowly for that change it's good for me and what i can do it for this.
+-I'm a good person for my whole life it's fast for me and it's easy to choose for me. I can do everything in my life And i will became a successfully person one day in my life. When everybody watch me and listen m. One day i will become a successfull person in the world. 
+-I'm preparing for that. 
+-And i can't stop, i never give up. Keep continue and keep improving myself. It's begin and begin i can't stop this
+-
+-
+-
+
+commit d8e9ffe9dc07de9328a523f39ac06445d76e76b7
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Thu Jun 5 22:53:31 2025 +0530
+
+    sweet commit
+
+diff --git a/hello.txt b/hello.txt
+index 8c194ba..06fb940 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1,3 +1,3 @@
+ hello this is my filey
+-
++hello htis is good for me
+ 
+
+commit 399026caa1eb4616b15a0e8e96c989d428c9c503
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Thu Jun 5 22:49:01 2025 +0530
+
+    this is good commit
+
+diff --git a/hello.txt' b/hello.txt'
+new file mode 100644
+index 0000000..9ea103c
+--- /dev/null
++++ b/hello.txt'
+@@ -0,0 +1,8 @@
++hello this is my filey
++this is good for me and i can do it slowly for that change it's good for me and what i can do it for this.
++I'm a good person for my whole life it's fast for me and it's easy to choose for me. I can do everything in my life And i will became a successfully person one day in my life. When everybody watch me and listen m. One day i will become a successfull person in the world. 
++I'm preparing for that. 
++And i can't stop, i never give up. Keep continue and keep improving myself. It's begin and begin i can't stop this
++
++
++
+
+commit e54b78339797eddd79ccf60fdf9fac8c1ed3c0d1
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Tue Jun 3 23:24:08 2025 +0530
+
+    test comit
+
+diff --git a/hello.txt b/hello.txt
+index ce01362..8c194ba 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1 +1,3 @@
+-hello
++hello this is my filey
++
++
+
+commit 52be53bd07c2e314a497110f28b10b23f2c3817c
+Author: neerajchoudhary <myjobmylife783@gmail.com>
+Date:   Tue Jun 3 23:19:10 2025 +0530
+
+    hello
+
+diff --git a/hello.txt b/hello.txt
+new file mode 100644
+index 0000000..ce01362
+--- /dev/null
++++ b/hello.txt
+@@ -0,0 +1 @@
++hello
