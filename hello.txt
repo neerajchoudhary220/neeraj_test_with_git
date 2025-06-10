@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello this is my filey
 hello htis is good for me
 
 goood for me it was a good file for me
 this is good
+=======
+ahello this is my filey
+>>>>>>> neeraj
